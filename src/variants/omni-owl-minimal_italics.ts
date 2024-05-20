@@ -74,7 +74,7 @@ export const omniOwlMinimalItalics: ThemeSchema = {
     'terminal.ansiMagenta': palette.ansi.COLOR5,
     'terminal.ansiCyan': palette.ansi.COLOR6,
     'terminal.ansiWhite': palette.ansi.COLOR7,
-    'terminal.selectionBackground': alpha(palette.other.AlmostComment, 45),
+    'terminal.selectionBackground': alpha(palette.other.AlmostComment, 200),
     'terminalCursor.background': palette.ansi.COLOR0,
     'terminalCursor.foreground': palette.base.FG,
 
